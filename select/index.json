@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "Dear Boy (Avicii By Avicii)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-19T02:21:44.165858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear Boy (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_Dear_Boy_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Boy (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Dear_Boy_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Boy - Avicii By Avicii",
+      "artist": "Avicii, Tim Bergling",
+      "has_synced": true,
+      "path": "select/03_Dear_Boy_-_Avicii_By_Avicii_Avicii,_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Boy - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_Dear_Boy_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear Boy [Avicii by Avicii Remix]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/05_Dear_Boy_[Avicii_by_Avicii_Remix]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear Boy - Avicii By Avicii",
+      "artist": "Avicii/Tim Bergling",
+      "has_synced": true,
+      "path": "select/06_Dear_Boy_-_Avicii_By_Avicii_Avicii_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear Boy (Avicii By Avicii)",
+      "artist": "Avicii Feat. Audra Mae",
+      "has_synced": true,
+      "path": "select/07_Dear_Boy_(Avicii_By_Avicii)_Avicii_Feat._Audra_Mae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Boy ( By )",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_Dear_Boy_(_By_)_Avicii.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Dear Boy (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_01_Dear_Boy_(Avicii_By_Avicii)_Avicii.lrc",
+      "repo_name": "7sEpBE3NE9Y"
+    }
+  ]
+}
